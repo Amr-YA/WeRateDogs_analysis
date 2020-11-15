@@ -13,5 +13,3 @@ Tasks in this project are as follows:
     Reporting on 
         1) Data wrangling efforts 
         2) Data analyses and visualizations
-
-##TODO##
